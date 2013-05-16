@@ -1,6 +1,6 @@
 = Ruby-SMPP
 
-{<img src="https://travis-ci.org/raykrueger/ruby-smpp.png" />}[https://travis-ci.org/raykrueger/ruby-smpp]
+{<img src="https://travis-ci.org/dwilkie/ruby-smpp.png" />}[https://travis-ci.org/dwilkie/ruby-smpp]
 
 == DESCRIPTION:
 
